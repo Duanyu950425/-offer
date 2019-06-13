@@ -30,22 +30,33 @@
 
 ### 		[面试题13：二进制中1的个数](https://github.com/Duanyu950425/-offer/blob/master/01.%E9%9D%A2%E8%AF%95%E9%9C%80%E8%A6%81%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/01.%E9%9D%A2%E8%AF%95%E9%9C%80%E8%A6%81%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md#%E9%9D%A2%E8%AF%95%E9%A2%9813%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0)
 
-## 2. 高质量的代码
+### 		[详细代码参考](https://github.com/Duanyu950425/-offer/tree/master/01.%E9%9D%A2%E8%AF%95%E9%9C%80%E8%A6%81%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/01.%E9%9D%A2%E8%AF%95%E9%9C%80%E8%A6%81%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86_%E4%BB%A3%E7%A0%81)
 
-### 		[面试题1：数值的整数次方]()
+## [2. 高质量的代码](https://github.com/Duanyu950425/-offer/blob/master/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81.md)
 
-### 		[面试题2：打印从1到最大的n位数]()	
+### 		[面试题1：数值的整数次方](https://github.com/Duanyu950425/-offer/blob/master/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81.md#%E9%9D%A2%E8%AF%95%E9%A2%981%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9-1)
 
-### 		[面试题3：删除链表的节点]()
+### 		[面试题2：打印从1到最大的n位数](https://github.com/Duanyu950425/-offer/blob/master/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81.md#%E9%9D%A2%E8%AF%95%E9%A2%982%E6%89%93%E5%8D%B0%E4%BB%8E1%E5%88%B0%E6%9C%80%E5%A4%A7%E7%9A%84n%E4%BD%8D%E6%95%B0-1)
 
-### 		[面试题4：正则表达式匹配]()
+### 		[面试题3：删除链表的节点](https://github.com/Duanyu950425/-offer/blob/master/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81.md#%E9%9D%A2%E8%AF%95%E9%A2%983%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E8%8A%82%E7%82%B9-1)
 
-### 		[面试题5：表示数值的字符串]()
+### 		[面试题4：正则表达式匹配](https://github.com/Duanyu950425/-offer/blob/master/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81.md#%E9%9D%A2%E8%AF%95%E9%A2%984%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D-1)
 
-### 		[面试题6：调整数组顺序使奇数位于偶数前面]()
+### 		[面试题5：表示数值的字符串](https://github.com/Duanyu950425/-offer/blob/master/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81.md#%E9%9D%A2%E8%AF%95%E9%A2%985%E8%A1%A8%E7%A4%BA%E6%95%B0%E5%80%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2-1)
 
-### 		[面试题7：链表中倒数第k个节点]()
+### 		[面试题6：调整数组顺序使奇数位于偶数前面](https://github.com/Duanyu950425/-offer/blob/master/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81.md#%E9%9D%A2%E8%AF%95%E9%A2%986%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2-1)
 
-### 		[面试题8：链表中环的入口地址]()
+### 		[面试题7：链表中倒数第k个节点](https://github.com/Duanyu950425/-offer/blob/master/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81.md#%E9%9D%A2%E8%AF%95%E9%A2%987%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9-1)
 
-### 		[面试题9：反转链表]()
+### 		[面试题8：链表中环的入口地址](https://github.com/Duanyu950425/-offer/blob/master/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81.md#%E9%9D%A2%E8%AF%95%E9%A2%988%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%8E%AF%E7%9A%84%E5%85%A5%E5%8F%A3%E5%9C%B0%E5%9D%80-1)
+
+### 		[面试题9：反转链表](https://github.com/Duanyu950425/-offer/blob/master/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81.md#%E9%9D%A2%E8%AF%95%E9%A2%989%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8-1)
+
+### 		[面试题10：合并两个排序的链表](https://github.com/Duanyu950425/-offer/blob/master/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81.md#%E9%9D%A2%E8%AF%95%E9%A2%9810%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8-1)
+
+### 		[面试题11：树的子结构](https://github.com/Duanyu950425/-offer/blob/master/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81.md#%E9%9D%A2%E8%AF%95%E9%A2%9811%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84)
+
+### 		[详细代码参考](https://github.com/Duanyu950425/-offer/tree/master/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81/02.%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81_%E4%BB%A3%E7%A0%81)
+
+## [3. 解决面试题的思路]()
+
