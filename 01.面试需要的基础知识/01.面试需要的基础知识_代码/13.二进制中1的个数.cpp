@@ -17,7 +17,7 @@ public:
 		return count;
 	}
 };
-int main()
+int main13()
 {
 	Solution13 s;
 	int n;

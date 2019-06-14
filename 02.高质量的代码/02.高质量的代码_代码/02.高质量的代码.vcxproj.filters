@@ -21,9 +21,6 @@
     <ClCompile Include="02.打印从1到最大的n位数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="03.删除链表的节点.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="04.正则表达式匹配.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -31,12 +28,6 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="06.调整数组顺序使奇数位于偶数前面.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="07.链表中倒数第k个节点.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="08.链表中环的入口地址.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="09.反转链表.cpp">

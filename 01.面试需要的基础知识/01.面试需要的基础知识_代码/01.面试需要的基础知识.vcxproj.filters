@@ -27,12 +27,6 @@
     <ClCompile Include="04.从尾到头打印链表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="05.重建二叉树.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="06.二叉树的下一个节点.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="07.用两个栈实现队列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -43,6 +37,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="13.二进制中1的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05.重建二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06.二叉树的下一个节点.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

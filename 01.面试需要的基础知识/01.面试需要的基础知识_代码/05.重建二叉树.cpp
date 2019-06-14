@@ -1,5 +1,6 @@
 #include<iostream>
 #include<vector>
+#include<queue>
 #include<stack>
 using namespace std;
 
@@ -9,9 +10,23 @@ struct TreeNode {
 	TreeNode *right;
 	TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
-class Solution 
+class Tree 
 {
 public:
+	void LevelOrder()
+	{
+		queue<TreeNode *> q;
+		TreeNode *current = pRoot;
+		while (current)
+		{
+			cout << current->val << " ";
+			if (current->left)q.push(current->left);
+			if (current->right) q.push(current->right);
+			if (q.empty())return;
+			current = q.front();
+			q.pop();
+		}
+	}
 	TreeNode* reConstructBinaryTree(vector<int> pre, vector<int> vin) 
 	{
 		int length = vin.size();
@@ -42,4 +57,31 @@ public:
 		head->right = reConstructBinaryTree(right_pre, right_in);
 		return head;
 	}
+
+	TreeNode *pRoot;
 };
+int main()
+{
+	vector<int> vPre, vIn;
+	vPre.push_back(1);
+	vPre.push_back(2);
+	vPre.push_back(4);
+	vPre.push_back(7);
+	vPre.push_back(3);
+	vPre.push_back(5);
+	vPre.push_back(6);
+	vPre.push_back(8);
+
+	vIn.push_back(4);
+	vIn.push_back(7);
+	vIn.push_back(2);
+	vIn.push_back(1);
+	vIn.push_back(5);
+	vIn.push_back(3);
+	vIn.push_back(8);
+	vIn.push_back(6);
+	Tree t;
+	t.pRoot = t.reConstructBinaryTree(vPre, vIn);
+	t.LevelOrder();
+	return 0;
+}

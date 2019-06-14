@@ -53,4 +53,19 @@ public:
 		}
 		return pNode1;
 	}
+	ListNode *pHead;
 };
+
+int main08()
+{
+	ListNode node1(1);
+	ListNode node2(2);
+	ListNode node3(3);
+	ListNode node4(4);
+	ListNode node5(5);
+	ListNode node6(6);
+
+	Solution s;
+
+	return 0;
+}

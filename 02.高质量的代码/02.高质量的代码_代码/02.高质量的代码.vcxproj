@@ -148,12 +148,9 @@
   <ItemGroup>
     <ClCompile Include="01.数值的整数次方.cpp" />
     <ClCompile Include="02.打印从1到最大的n位数.cpp" />
-    <ClCompile Include="03.删除链表的节点.cpp" />
     <ClCompile Include="04.正则表达式匹配.cpp" />
     <ClCompile Include="05.表示数值的字符串.cpp" />
     <ClCompile Include="06.调整数组顺序使奇数位于偶数前面.cpp" />
-    <ClCompile Include="07.链表中倒数第k个节点.cpp" />
-    <ClCompile Include="08.链表中环的入口地址.cpp" />
     <ClCompile Include="09.反转链表.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

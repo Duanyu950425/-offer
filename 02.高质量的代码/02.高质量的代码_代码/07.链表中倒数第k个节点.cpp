@@ -5,13 +5,16 @@ using namespace std;
 
 struct ListNode 
 {
-	int val;
+	char val;
 	struct ListNode *next;
 	ListNode(int x) :val(x), next(NULL) {}
 }; 
-class Solution07
+class List
 {
 public:
+	List() { pListHead = new ListNode(NULL); pListHead->next = NULL; }
+	void ListInsert(ListNode *pNode);//¥”Œ≤≤Â»Î
+	void Show();
 	ListNode* FindKthToTail(ListNode* pListHead, unsigned int k) 
 	{
 		if (pListHead == NULL || k <= 0)
@@ -33,4 +36,50 @@ public:
 		}
 		return pSlow;
 	}
+	ListNode* pListHead;
 };
+void List::ListInsert(ListNode *pNode)
+{
+	ListNode *currentNode = pListHead;
+	while (currentNode->next != NULL)
+	{
+		currentNode = currentNode->next;
+	}
+	ListNode *newNode = new ListNode(pNode->val);
+	newNode->next = NULL;
+	currentNode->next = newNode;
+}
+void List::Show()
+{
+	for (ListNode *current = pListHead; current; current = current->next)
+	{
+		cout << current->val;
+		if (current->next)cout << "->";
+	}
+	cout << endl;
+}
+int main07()
+{
+	ListNode node1('a');
+	ListNode node2('b');
+	ListNode node3('c');
+	ListNode node4('d');
+	ListNode node5('e');
+	ListNode node6('f');
+	ListNode node7('g');
+	ListNode node8('h');
+
+	List *pList = new List();
+	pList->pListHead = &node1;
+	pList->ListInsert(&node2);
+	pList->ListInsert(&node3);
+	pList->ListInsert(&node4);
+	pList->ListInsert(&node5);
+	pList->ListInsert(&node6);
+	pList->ListInsert(&node7);
+	pList->ListInsert(&node8);
+	pList->Show();
+
+	cout << pList->FindKthToTail(pList->pListHead, 1)->val << endl;
+	return 0;
+}
