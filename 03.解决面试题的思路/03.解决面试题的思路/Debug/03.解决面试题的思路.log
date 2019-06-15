@@ -1,3 +1,3 @@
-﻿  01.二叉树的镜像.cpp
-  03.解决面试题的思路.vcxproj -> D:\03 GitHub\剑指offer\03.解决面试题的思路\03.解决面试题的思路\Debug\03.解决面试题的思路.exe
-  03.解决面试题的思路.vcxproj -> D:\03 GitHub\剑指offer\03.解决面试题的思路\03.解决面试题的思路\Debug\03.解决面试题的思路.pdb (Full PDB)
+﻿  04.包含min函数的栈.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
+D:\03 GitHub\剑指offer\03.解决面试题的思路\03.解决面试题的思路\Debug\03.解决面试题的思路.exe : fatal error LNK1120: 1 个无法解析的外部命令

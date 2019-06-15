@@ -146,7 +146,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01.二叉树的镜像.cpp" />
+    <ClCompile Include="02.对称的二叉树.cpp" />
+    <ClCompile Include="04.包含min函数的栈.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

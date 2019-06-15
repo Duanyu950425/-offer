@@ -48,7 +48,7 @@ public:
 };
 
 
-int main()
+int main01()
 {
 	TreeNode node1(8), node2(6), node3(10), node4(5), node5(7), node6(9), node7(11);
 	Tree t;

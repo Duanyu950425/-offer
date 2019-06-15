@@ -30,7 +30,7 @@
     <ClCompile Include="06.调整数组顺序使奇数位于偶数前面.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="09.反转链表.cpp">
+    <ClCompile Include="03_2删除链表重复的节点.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
