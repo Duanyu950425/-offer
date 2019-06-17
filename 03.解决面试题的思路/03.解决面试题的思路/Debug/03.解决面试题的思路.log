@@ -1,3 +1,6 @@
-﻿  04.包含min函数的栈.cpp
-MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
-D:\03 GitHub\剑指offer\03.解决面试题的思路\03.解决面试题的思路\Debug\03.解决面试题的思路.exe : fatal error LNK1120: 1 个无法解析的外部命令
+﻿  06.从上到下打印二叉树.cpp
+  05.栈的压入、弹出序列.cpp
+d:\03 github\剑指offer\03.解决面试题的思路\03.解决面试题的思路\05.栈的压入、弹出序列.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  03.解决面试题的思路.vcxproj -> D:\03 GitHub\剑指offer\03.解决面试题的思路\03.解决面试题的思路\Debug\03.解决面试题的思路.exe
+  03.解决面试题的思路.vcxproj -> D:\03 GitHub\剑指offer\03.解决面试题的思路\03.解决面试题的思路\Debug\03.解决面试题的思路.pdb (Full PDB)

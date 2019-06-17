@@ -21,5 +21,11 @@
     <ClCompile Include="04.包含min函数的栈.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="05.栈的压入、弹出序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06.从上到下打印二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

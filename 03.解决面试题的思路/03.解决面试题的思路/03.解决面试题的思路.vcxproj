@@ -148,6 +148,8 @@
   <ItemGroup>
     <ClCompile Include="02.对称的二叉树.cpp" />
     <ClCompile Include="04.包含min函数的栈.cpp" />
+    <ClCompile Include="05.栈的压入、弹出序列.cpp" />
+    <ClCompile Include="06.从上到下打印二叉树.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
