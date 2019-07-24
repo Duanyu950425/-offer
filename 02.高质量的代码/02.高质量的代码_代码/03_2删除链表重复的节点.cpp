@@ -75,7 +75,7 @@ void List::Show()
 	cout << endl;
 }
 
-int main()
+int main03()
 {
 	ListNode node1(1);
 	ListNode node2(2);
