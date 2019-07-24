@@ -28,7 +28,7 @@ public:
 		return false;
 	}
 };
-int main()
+int main05()
 {
 	vector<int> pushstack;
 	vector<int> popstack;
