@@ -152,6 +152,8 @@
     <ClCompile Include="04.正则表达式匹配.cpp" />
     <ClCompile Include="05.表示数值的字符串.cpp" />
     <ClCompile Include="06.调整数组顺序使奇数位于偶数前面.cpp" />
+    <ClCompile Include="11.树的子结构.cpp" />
+    <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
